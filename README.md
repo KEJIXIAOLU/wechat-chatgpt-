@@ -68,6 +68,8 @@ macOS版下载地址: [点此下载](http://www.hostbuf.com/downloads/finalshell
     CAPTCHA_TOKEN=
     OPENAI_API_KEY=填写你的API_KEY
 
+XShell保存退出指令：首先按ESC进入Command模式，然后输入“：wq”，回车就可以保存并退出了
+
 
 修改模型
 
