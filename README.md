@@ -84,6 +84,9 @@ XShell保存退出指令：首先按ESC进入Command模式，然后输入“：w
 
     cd wechat-chatgpt
 
+
+    vi node_modules/chatgpt/build/index.js
+
 找到73行，修改模型为：
 
     text-davinci-003
