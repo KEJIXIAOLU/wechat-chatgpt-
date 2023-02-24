@@ -37,7 +37,9 @@ macOS版下载地址: [点此下载](http://www.hostbuf.com/downloads/finalshell
 克隆 Wechat-Chatgpt 项目[点此进入项目地址](https://github.com/fuergaosi233/wechat-chatgpt)
 
     git clone https://github.com/fuergaosi233/wechat-chatgpt.git
-    
+
+输入“ls”查看项目，输入“cd 复制项目文件地址”
+
 ### 安装依赖并创建配置文件
 
 切换到new-wechatgpt分支
