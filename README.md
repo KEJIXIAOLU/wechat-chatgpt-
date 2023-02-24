@@ -57,6 +57,8 @@ macOS版下载地址: [点此下载](http://www.hostbuf.com/downloads/finalshell
 
 创建配置文件
 
+    cp config.yaml.example config.yaml
+    
     cp .env.example .env
 
 
