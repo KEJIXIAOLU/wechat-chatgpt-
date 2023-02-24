@@ -62,7 +62,7 @@ macOS版下载地址: [点此下载](http://www.hostbuf.com/downloads/finalshell
 
 修改配置文件：API = 就是你在openAI官网上生成的apikey
 
-    vi.env
+    vi .env
 
 .env内容如下：
 
