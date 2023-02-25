@@ -38,7 +38,7 @@ macOS版下载地址: [点此下载](http://www.hostbuf.com/downloads/finalshell
 
     git clone https://github.com/fuergaosi233/wechat-chatgpt.git
 
-复制Wechat-Chatgpt项目
+进入Wechat-Chatgpt项目
 
     cd wechat-chatgpt
 
@@ -101,18 +101,10 @@ XShell保存退出指令：首先按ESC进入Command模式，然后输入“：w
 
 ### 如果需要在后台守护进程运行，那么只需运行下面命令
 
-安装进程守护
 
-    apt-get install screen
-
-安装之后，打开一个新窗口后，重新启动聊天机器人
-
-    screen -S chatgpt
-
-启动成功后，按Ctrl +A+D 即可挂起后台服务。想看运行情况输入下面命令就可以查看了。
+    nohup chatgpt &>/dev/null &
 
 
-    screen -R chatgpt
 
 这样即使你断开VPS，机器人也会在后台运行。
 
