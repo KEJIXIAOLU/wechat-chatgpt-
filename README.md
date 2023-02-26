@@ -101,6 +101,7 @@ XShell保存退出指令：首先按ESC进入Command模式，然后输入“：w
 
 ### 如果需要在后台守护进程运行，那么只需运行下面命令
 
+    nohup command
 
     nohup chatgpt &>/dev/null &
 
