@@ -103,7 +103,7 @@ XShell保存退出指令：首先按ESC进入Command模式，然后输入“：w
 
     nohup command
 
-    nohup chatgpt &>/dev/null &
+    nohup chatgpt &amp;</dev/null   &amp; 
 
 
 
